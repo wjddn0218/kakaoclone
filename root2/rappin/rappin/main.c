@@ -1,8 +1,8 @@
 //
 //  main.c
-//  root2
+//  rappin
 //
-//  Created by 정현우 on 2021/04/05.
+//  Created by 정현우 on 2021/05/08.
 //
 
 #include <stdio.h>
